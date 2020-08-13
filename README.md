@@ -1,5 +1,4 @@
-# Artificial-Neural-Network
-## Artificial Neural Network with Keras
+# Artificial Neural Network with Keras
 
 ### Customer retention Analytics
 
